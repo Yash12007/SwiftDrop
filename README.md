@@ -2,6 +2,9 @@
 
 SwiftDrop is an Android courier service app designed to streamline the process of sending and receiving packages. This repository contains the code for the SwiftDrop mobile app currently in development.
 
+<img src='https://github.com/Yash12007/SwiftDrop/blob/main/Untitled%20design.png?raw=true' width='100px' height='100px'>
+App Logo
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
