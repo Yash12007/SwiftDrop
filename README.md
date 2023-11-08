@@ -28,3 +28,9 @@ SwiftDrop aims to provide a user-friendly and efficient courier service platform
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Yash12007/SwiftDrop.git
+
+Happy coding and enjoy using SwiftDrop! If you have any questions, issues, or suggestions, feel free to reach out to us.
+
+[Yash12007](https://yash12007.github.io)
+<br>
+[Contact Email](mailto:yash12007@yahoo.com)
